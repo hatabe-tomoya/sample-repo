@@ -1,2 +1,2 @@
 # sample-repo
-Git学習
+更新
